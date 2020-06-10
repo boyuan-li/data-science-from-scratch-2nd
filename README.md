@@ -2,8 +2,7 @@
 
 Joel Grus
 
-1. Introduction
-
+1. Introduction\
 2. A crash course in python
 
 3. Visualizing data
